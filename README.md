@@ -1,6 +1,6 @@
 # Full Stack .NET Developer
 
-Hello! I'm a passionate software developer with over 9 years of experience in designing, developing, and deploying innovative web and desktop applications using .NET(C#). My journey has equipped me with hands-on expertise across a diverse set of technologies and platforms.
+Hello! I'm a passionate software developer with over 10 years of experience in designing, developing, and deploying innovative web and desktop applications using .NET(C#). My journey has equipped me with hands-on expertise across a diverse set of technologies and platforms.
 
 ## Expertise Highlights
 
