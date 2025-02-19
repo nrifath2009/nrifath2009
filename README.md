@@ -12,6 +12,7 @@ Hello! I'm a passionate software developer with over 10 years of experience in d
 - Strong foundation in Object Oriented Programming (OOP), Version Control using Git, N-Tier Architecture, software design principles, and coding standards
 - Advocate of best practices including SOLID principles and design patterns
 - Proficient in project development tools such as JIRA, DevOps, and Trello for effective project management
+- AI & Machine Learning: Developed a customized AI chatbot using OpenAI API and focused on Prompt Engineering to optimize AI interactions
 
 ## Learning and Work Ethic
 
